@@ -1,2 +1,2 @@
 # jinjaexperiments
-Experiments with templating
+Experiments with templating for codegen
